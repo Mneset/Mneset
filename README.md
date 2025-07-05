@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-I'm a back-end development student, and I'm completely new to Github 🤓
-
-I'm currently trying to learn the mechanics, so I can put it to use later😎
+I'm a back-end development student who has completed 1 out of 2 years🤓 It has been fun this far, and I'm excited to keep learning!
