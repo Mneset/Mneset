@@ -1,3 +1,4 @@
-## Hi there 👋
-
-I'm a back-end development student who has completed 1 out of 2 years🤓 It has been fun this far, and I'm excited to keep learning!
+🎓 Backend development student, graduating in 4 months
+💼 Fullstack intern @ Innoscribe
+⚙️ Passionate about backend, neural networks & AI
+🚀 Building things end-to-end while working toward specializing in the back
